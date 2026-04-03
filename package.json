@@ -1,0 +1,12 @@
+{
+  "name": "mello-eod-proxy",
+  "version": "1.0.0",
+  "description": "Anthropic API proxy for Mello House EOD Summariser",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
